@@ -1,4 +1,4 @@
 Handwritter
 ===========
 
-Twitter + Neural Network + Stock Market?
+Twitter + Neural Network + Handwriting?
